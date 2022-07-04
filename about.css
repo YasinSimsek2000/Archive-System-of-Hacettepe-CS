@@ -1,0 +1,44 @@
+#table1 {
+    background-color:rgb(11, 167, 184);
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titleth {
+    border: 1px solid black;
+    font-size: 20px;
+    width: 25%;
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.table3 {
+    display: inline-block;
+    background-color:rgb(11, 167, 184);
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    max-width: 17.5%;
+    height: 1450px;
+}
+
+body {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+h2, p {
+    text-align: left;
+    width: 90%;
+}
+
+
